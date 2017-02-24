@@ -1,0 +1,20 @@
+cd C:\GITTEST
+
+$ git config --global user.name "vishakha thakur"
+
+$ git config --global user.email "vishakha_thakur@persistent.co.in"
+$ git config user.name
+
+$ git config --list
+$ git init ---to create repository to locate where u are currently
+$ git add file1.txt ---to add file in repository
+
+$git status
+
+$git commit -m "first commit"-----m-message goes to log
+undoing the changes-1.reset,2.revert,3.checkout
+ammending commits,
+renaming file 
+deleting file
+branching
+remote
