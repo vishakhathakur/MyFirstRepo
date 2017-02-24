@@ -18,3 +18,10 @@ renaming file
 deleting file
 branching
 remote
+solving conflicts
+rebasing in gits
+
+
+
+
+$ git config --global http.proxy "http:/hjproxy.persistent.co.in:8080"
