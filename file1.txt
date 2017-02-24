@@ -1,6 +1,6 @@
 Welcome to GIT
 
 
-chang1
+Change 1
 
-change2
+Change 2
